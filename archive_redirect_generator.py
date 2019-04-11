@@ -6,12 +6,12 @@ def streamRedirectGenerate(redirectTemplate):
     i = 1
     streamGenerating = True
     while streamGenerating:
-        streamFileName = f'../video-archive/json/streams/{i:04}.json'
+        streamFileName = f'../video-archive/archive/stream/{i:04}.json'
         if os.path.isfile(streamFileName):
             with open(streamFileName, 'r', encoding="UTF-8", newline="\n") as streamFile:
                 streamJsonString = streamFile.read()
                 streamJsonObject = json.loads(streamJsonString)
-                streamOutputHTML = redirectTemplate.format(url=f'https://www.youtube.com/playlist?list={streamJsonObject["playlist"]}')
+                streamOutputHTML = redirectTemplate.format(url=f'https://www.youtube.com/playlist?list={streamJsonObject["playlistID"]}')
                 streamOutputHTMLFilename = f'playlist/stream/{i}/index.html'
                 os.makedirs(os.path.dirname(streamOutputHTMLFilename), exist_ok=True)
                 with open(streamOutputHTMLFilename, 'w', encoding="UTF-8", newline="\n") as streamOutputHTMLFile:
@@ -23,21 +23,22 @@ def streamRedirectGenerate(redirectTemplate):
     pass
 
 
-def gameRedirectGenerate(redirectTemplate):
-    gameBaseDir = '../video-archive/json/games'
-    gameDirs = os.listdir(gameBaseDir)
-    for gameDir in gameDirs:
-        categoryDirs = os.listdir(f'{gameBaseDir}/{gameDir}')
-        for categoryDir in categoryDirs:
-            if(os.path.isdir(f'{gameBaseDir}/{gameDir}/{categoryDir}')):
-                with open(f'{gameBaseDir}/{gameDir}/{categoryDir}/_subID.json', 'r', encoding="UTF-8", newline="\n") as gameFile:
-                    gameJsonString = gameFile.read()
-                    gameJsonObject = json.loads(gameJsonString)
-                    gameOutputHTML = redirectTemplate.format(url=f'https://www.youtube.com/playlist?list={gameJsonObject["playlist"]}')
-                    gameOutputHTMLFilename = f'playlist/game/{gameDir}/{categoryDir}/index.html'
-                    os.makedirs(os.path.dirname(gameOutputHTMLFilename), exist_ok=True)
-                    with open(gameOutputHTMLFilename, 'w', encoding="UTF-8", newline="\n") as gameOutputHTMLFile:
-                        gameOutputHTMLFile.write(gameOutputHTML)
+def categoryRedirectGenerate(redirectTemplate):
+    categoryBaseDir = '../video-archive/archive/category'
+    categoryDirs = os.listdir(categoryBaseDir)
+    for categoryDir in categoryDirs:
+        subCategoryFiles = os.listdir(f'{categoryBaseDir}/{categoryDir}')
+        for subCategoryFile in subCategoryFiles:
+            if(os.path.isfile(f'{categoryBaseDir}/{categoryDir}/{subCategoryFile}') and subCategoryFile != "_category.json" and subCategoryFile.endswith(".json")):
+                subCategoryFile = subCategoryFile.replace(".json", "")
+                with open(f'{categoryBaseDir}/{categoryDir}/{subCategoryFile}.json', 'r', encoding="UTF-8", newline="\n") as gameFile:
+                    categoryJsonString = gameFile.read()
+                    categoryJsonObject = json.loads(categoryJsonString)
+                    categoryOutputHTML = redirectTemplate.format(url=f'https://www.youtube.com/playlist?list={categoryJsonObject["playlistID"]}')
+                    categoryOutputHTMLFilename = f'playlist/category/{categoryDir}/{subCategoryFile}/index.html'
+                    os.makedirs(os.path.dirname(categoryOutputHTMLFilename), exist_ok=True)
+                    with open(categoryOutputHTMLFilename, 'w', encoding="UTF-8", newline="\n") as categoryOutputHTMLFile:
+                        categoryOutputHTMLFile.write(categoryOutputHTML)
     pass
 
 
@@ -47,6 +48,6 @@ if __name__ == '__main__':
         redirectTemplate = templateFile.read()
 
     streamRedirectGenerate(redirectTemplate)
-    gameRedirectGenerate(redirectTemplate)
+    categoryRedirectGenerate(redirectTemplate)
 
     pass
