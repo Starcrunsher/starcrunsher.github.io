@@ -8,11 +8,12 @@ def streamRedirectGenerate(redirectTemplate):
     while streamGenerating:
         streamFileName = f'../video-archive/archive/stream/{i:04}.json'
         if os.path.isfile(streamFileName):
+            print(streamFileName)
             with open(streamFileName, 'r', encoding="UTF-8", newline="\n") as streamFile:
                 streamJsonString = streamFile.read()
                 streamJsonObject = json.loads(streamJsonString)
                 streamOutputHTML = redirectTemplate.format(url=f'https://www.youtube.com/playlist?list={streamJsonObject["playlistID"]}')
-                streamOutputHTMLFilename = f'playlist/stream/{i}/index.html'
+                streamOutputHTMLFilename = f'playlists/streams/{i}/index.html'
                 os.makedirs(os.path.dirname(streamOutputHTMLFilename), exist_ok=True)
                 with open(streamOutputHTMLFilename, 'w', encoding="UTF-8", newline="\n") as streamOutputHTMLFile:
                     streamOutputHTMLFile.write(streamOutputHTML)
@@ -31,11 +32,12 @@ def categoryRedirectGenerate(redirectTemplate):
         for subCategoryFile in subCategoryFiles:
             if(os.path.isfile(f'{categoryBaseDir}/{categoryDir}/{subCategoryFile}') and subCategoryFile != "_category.json" and subCategoryFile.endswith(".json")):
                 subCategoryFile = subCategoryFile.replace(".json", "")
+                print(f'{categoryBaseDir}/{categoryDir}/{subCategoryFile}.json')
                 with open(f'{categoryBaseDir}/{categoryDir}/{subCategoryFile}.json', 'r', encoding="UTF-8", newline="\n") as gameFile:
                     categoryJsonString = gameFile.read()
                     categoryJsonObject = json.loads(categoryJsonString)
                     categoryOutputHTML = redirectTemplate.format(url=f'https://www.youtube.com/playlist?list={categoryJsonObject["playlistID"]}')
-                    categoryOutputHTMLFilename = f'playlist/category/{categoryDir}/{subCategoryFile}/index.html'
+                    categoryOutputHTMLFilename = f'playlists/category/{categoryDir}/{subCategoryFile}/index.html'
                     os.makedirs(os.path.dirname(categoryOutputHTMLFilename), exist_ok=True)
                     with open(categoryOutputHTMLFilename, 'w', encoding="UTF-8", newline="\n") as categoryOutputHTMLFile:
                         categoryOutputHTMLFile.write(categoryOutputHTML)
