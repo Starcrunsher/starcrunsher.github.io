@@ -1,14 +1,14 @@
-last updated 2019-05-25
+last updated 2019-05-26 05:25 UTC
 
 | Players                          | Channel | Twitch-VoD                             | Youtube-Video                               | Notes                        |
 | -------------------------------- | ------- | -------------------------------------- | ------------------------------------------- | ---------------------------- |
-| swap_space vs MassHesteria       | SG      | https://www.twitch.tv/videos/429552889 |                                             |                              |
-| Rumbleminze vs ARC               | SG6     | https://www.twitch.tv/videos/429553699 |                                             |                              |
-| iora vs Di10                     | SG2     | https://www.twitch.tv/videos/429554552 |                                             |                              |
-| papert1ger vs croakomire         | SG2     | https://www.twitch.tv/videos/429555695 |                                             |                              |
-| polarbearbunny vs Mesyr          | SG2     | https://www.twitch.tv/videos/429557123 |                                             |                              |
-| TracieM vs Janus                 | SG2     | https://www.twitch.tv/videos/429558007 |                                             |                              |
-| sloaters27 vs Aerytheta          | SG3     | https://www.twitch.tv/videos/429559284 |                                             |                              |
+| swap_space vs MassHesteria       | SG      | https://www.twitch.tv/videos/429552889 | https://www.youtube.com/watch?v=Xf7qpwuiNjw |                              |
+| Rumbleminze vs ARC               | SG6     | https://www.twitch.tv/videos/429553699 | https://www.youtube.com/watch?v=Wfx8Vu0BZf8 |                              |
+| iora vs Di10                     | SG2     | https://www.twitch.tv/videos/429554552 | https://www.youtube.com/watch?v=BVEOdM7a8d4 |                              |
+| papert1ger vs croakomire         | SG2     | https://www.twitch.tv/videos/429555695 | https://www.youtube.com/watch?v=HM7MF9uypNY |                              |
+| polarbearbunny vs Mesyr          | SG2     | https://www.twitch.tv/videos/429557123 | https://www.youtube.com/watch?v=VBXXSr-noNM |                              |
+| TracieM vs Janus                 | SG2     | https://www.twitch.tv/videos/429558007 | https://www.youtube.com/watch?v=R2yHtHThtzc |                              |
+| sloaters27 vs Aerytheta          | SG3     | https://www.twitch.tv/videos/429559284 | https://www.youtube.com/watch?v=wsSplulRTok |                              |
 | CanadianOwl vs MrGuyAverage      | SG2     | https://www.twitch.tv/videos/429560415 |                                             |                              |
 | sweetnumb vs FusionWarrior       | SG2     | https://www.twitch.tv/videos/429561285 |                                             |                              |
 | Feral vs Toasty                  | SG2     | https://www.twitch.tv/videos/429562653 |                                             |                              |
@@ -20,3 +20,7 @@ last updated 2019-05-25
 | Whewty vs croakomire             | SG2     | https://www.twitch.tv/videos/429570089 |                                             |                              |
 | Kipp vs TracieM                  | SG5     | https://www.twitch.tv/videos/429571527 |                                             |                              |
 | sweetnumb vs Maisgueuh           | SG3     | https://www.twitch.tv/videos/429572592 |                                             |                              |
+| iora vs swap_space               | SG6     | https://www.twitch.tv/videos/429988462 |                                             |                              |
+| PeteZa_34 vs polarbearbunny      | SG      | https://www.twitch.tv/videos/429990321 |                                             |                              |
+| 64bit_link vs CanadianOwl        | SG      | https://www.twitch.tv/videos/429993537 |                                             |                              |
+|                                  |         |                                        |                                             |                              |
