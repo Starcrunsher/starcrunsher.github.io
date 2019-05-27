@@ -1,26 +1,30 @@
-last updated 2019-05-26 05:25 UTC
+last updated 2019-05-27 04:22 UTC
 
-| Players                          | Channel | Twitch-VoD                             | Youtube-Video                               | Notes                        |
-| -------------------------------- | ------- | -------------------------------------- | ------------------------------------------- | ---------------------------- |
-| swap_space vs MassHesteria       | SG      | https://www.twitch.tv/videos/429552889 | https://www.youtube.com/watch?v=Xf7qpwuiNjw |                              |
-| Rumbleminze vs ARC               | SG6     | https://www.twitch.tv/videos/429553699 | https://www.youtube.com/watch?v=Wfx8Vu0BZf8 |                              |
-| iora vs Di10                     | SG2     | https://www.twitch.tv/videos/429554552 | https://www.youtube.com/watch?v=BVEOdM7a8d4 |                              |
-| papert1ger vs croakomire         | SG2     | https://www.twitch.tv/videos/429555695 | https://www.youtube.com/watch?v=HM7MF9uypNY |                              |
-| polarbearbunny vs Mesyr          | SG2     | https://www.twitch.tv/videos/429557123 | https://www.youtube.com/watch?v=VBXXSr-noNM |                              |
-| TracieM vs Janus                 | SG2     | https://www.twitch.tv/videos/429558007 | https://www.youtube.com/watch?v=R2yHtHThtzc |                              |
-| sloaters27 vs Aerytheta          | SG3     | https://www.twitch.tv/videos/429559284 | https://www.youtube.com/watch?v=wsSplulRTok |                              |
-| CanadianOwl vs MrGuyAverage      | SG2     | https://www.twitch.tv/videos/429560415 |                                             |                              |
-| sweetnumb vs FusionWarrior       | SG2     | https://www.twitch.tv/videos/429561285 |                                             |                              |
-| Feral vs Toasty                  | SG2     | https://www.twitch.tv/videos/429562653 |                                             |                              |
-| Ddraig vs crossproduct           | SG2     | https://www.twitch.tv/videos/429563871 |                                             |                              |
-| BluePlasmaSpark vs FreyasSpirit  | SG2     | https://www.twitch.tv/videos/429564985 |                                             |                              |
-| CheeseReaver vs LexausaurusRex   | SG2     | https://www.twitch.tv/videos/429565800 |                                             |                              |
-| Belthasar vs iora                | SG2     | https://www.twitch.tv/videos/429566514 |                                             |                              |
-| azder vs NightwolfXVI            | SG3     | https://www.twitch.tv/videos/429567979 |                                             | End of interview was cut off |
-| Whewty vs croakomire             | SG2     | https://www.twitch.tv/videos/429570089 |                                             |                              |
-| Kipp vs TracieM                  | SG5     | https://www.twitch.tv/videos/429571527 |                                             |                              |
-| sweetnumb vs Maisgueuh           | SG3     | https://www.twitch.tv/videos/429572592 |                                             |                              |
-| iora vs swap_space               | SG6     | https://www.twitch.tv/videos/429988462 |                                             |                              |
-| PeteZa_34 vs polarbearbunny      | SG      | https://www.twitch.tv/videos/429990321 |                                             |                              |
-| 64bit_link vs CanadianOwl        | SG      | https://www.twitch.tv/videos/429993537 |                                             |                              |
-|                                  |         |                                        |                                             |                              |
+| Players                            | Channel | Twitch-VoD                             | Youtube-Video                               | Notes                        |
+| ---------------------------------- | ------- | -------------------------------------- | ------------------------------------------- | ---------------------------- |
+| swap_space vs MassHesteria         | SG      | https://www.twitch.tv/videos/429552889 | https://www.youtube.com/watch?v=Xf7qpwuiNjw |                              |
+| Rumbleminze vs ARC                 | SG6     | https://www.twitch.tv/videos/429553699 | https://www.youtube.com/watch?v=Wfx8Vu0BZf8 |                              |
+| iora vs Di10                       | SG2     | https://www.twitch.tv/videos/429554552 | https://www.youtube.com/watch?v=BVEOdM7a8d4 |                              |
+| papert1ger vs croakomire           | SG2     | https://www.twitch.tv/videos/429555695 | https://www.youtube.com/watch?v=HM7MF9uypNY |                              |
+| polarbearbunny vs Mesyr            | SG2     | https://www.twitch.tv/videos/429557123 | https://www.youtube.com/watch?v=VBXXSr-noNM |                              |
+| TracieM vs Janus                   | SG2     | https://www.twitch.tv/videos/429558007 | https://www.youtube.com/watch?v=R2yHtHThtzc |                              |
+| sloaters27 vs Aerytheta            | SG3     | https://www.twitch.tv/videos/429559284 | https://www.youtube.com/watch?v=wsSplulRTok |                              |
+| CanadianOwl vs MrGuyAverage        | SG2     | https://www.twitch.tv/videos/429560415 | https://www.youtube.com/watch?v=4AYK5tQzXDg |                              |
+| sweetnumb vs FusionWarrior         | SG2     | https://www.twitch.tv/videos/429561285 | https://www.youtube.com/watch?v=RufM_z2aw90 |                              |
+| Feral vs Toasty                    | SG2     | https://www.twitch.tv/videos/429562653 | https://www.youtube.com/watch?v=oaRNmxVMa3I |                              |
+| Ddraig vs crossproduct             | SG2     | https://www.twitch.tv/videos/429563871 | https://www.youtube.com/watch?v=7HWW2W9t9cQ |                              |
+| BluePlasmaSpark vs FreyasSpirit    | SG2     | https://www.twitch.tv/videos/429564985 | https://www.youtube.com/watch?v=zneNmGq_4J4 |                              |
+| CheeseReaver vs LexausaurusRex     | SG2     | https://www.twitch.tv/videos/429565800 | https://www.youtube.com/watch?v=5iWevO26WyY |                              |
+| Belthasar vs iora                  | SG2     | https://www.twitch.tv/videos/429566514 | https://www.youtube.com/watch?v=_WEP2JxZCsc |                              |
+| azder vs NightwolfXVI              | SG3     | https://www.twitch.tv/videos/429567979 | https://www.youtube.com/watch?v=pMpc9W-__c0 | End of interview was cut off |
+| Whewty vs croakomire               | SG2     | https://www.twitch.tv/videos/429570089 | https://www.youtube.com/watch?v=YVf1C2itlDc |                              |
+| Kipp vs TracieM                    | SG5     | https://www.twitch.tv/videos/429571527 | https://www.youtube.com/watch?v=2x4qPBouOzo |                              |
+| sweetnumb vs Maisgueuh             | SG3     | https://www.twitch.tv/videos/429572592 |                                             |                              |
+| iora vs swap_space                 | SG6     | https://www.twitch.tv/videos/429988462 |                                             |                              |
+| PeteZa_34 vs polarbearbunny        | SG      | https://www.twitch.tv/videos/429990321 |                                             |                              |
+| 64bit_link vs CanadianOwl          | SG      | https://www.twitch.tv/videos/429993537 |                                             |                              |
+| azder vs Hero_82                   | SG3     | https://www.twitch.tv/videos/430444347 |                                             |                              |
+| serberoth vs crossproduct          | SG      | https://www.twitch.tv/videos/430446528 |                                             |                              |
+| Gameaholic vs Feral	               | SG3     | https://www.twitch.tv/videos/430449263 |                                             |                              |
+| MassHesteria vs SpaghettiToastBook | SG5     | https://www.twitch.tv/videos/430452092 |                                             |                              |
+|                                    |         |                                        |                                             |                              |
