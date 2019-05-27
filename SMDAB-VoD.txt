@@ -25,6 +25,6 @@ last updated 2019-05-27 04:22 UTC
 | 64bit_link vs CanadianOwl          | SG      | https://www.twitch.tv/videos/429993537 |                                             |                              |
 | azder vs Hero_82                   | SG3     | https://www.twitch.tv/videos/430444347 |                                             |                              |
 | serberoth vs crossproduct          | SG      | https://www.twitch.tv/videos/430446528 |                                             |                              |
-| Gameaholic vs Feral	               | SG3     | https://www.twitch.tv/videos/430449263 |                                             |                              |
+| Gameaholic vs Feral                | SG3     | https://www.twitch.tv/videos/430449263 |                                             |                              |
 | MassHesteria vs SpaghettiToastBook | SG5     | https://www.twitch.tv/videos/430452092 |                                             |                              |
 |                                    |         |                                        |                                             |                              |
