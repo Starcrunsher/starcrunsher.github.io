@@ -1,4 +1,4 @@
-last updated 2019-05-27 04:22 UTC
+last updated 2019-05-28 02:13 UTC
 
 | Players                            | Channel | Twitch-VoD                             | Youtube-Video                               | Notes                        |
 | ---------------------------------- | ------- | -------------------------------------- | ------------------------------------------- | ---------------------------- |
@@ -27,4 +27,7 @@ last updated 2019-05-27 04:22 UTC
 | serberoth vs crossproduct          | SG      | https://www.twitch.tv/videos/430446528 |                                             |                              |
 | Gameaholic vs Feral                | SG3     | https://www.twitch.tv/videos/430449263 |                                             |                              |
 | MassHesteria vs SpaghettiToastBook | SG5     | https://www.twitch.tv/videos/430452092 |                                             |                              |
+| Rumbleminze vs Jaychalke           | SG      | https://www.twitch.tv/videos/430919387 |                                             |                              |
+| WhiteMageBecky vs Skarsnik         | SG      | https://www.twitch.tv/videos/430921756 |                                             |                              |
+| Kipp vs polarbearbunny             | SG2     | https://www.twitch.tv/videos/430923558 |                                             |                              |
 |                                    |         |                                        |                                             |                              |
