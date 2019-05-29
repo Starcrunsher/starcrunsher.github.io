@@ -1,4 +1,4 @@
-last updated 2019-05-28 02:13 UTC
+last updated 2019-05-29 11:04 UTC
 
 | Players                            | Channel | Twitch-VoD                             | Youtube-Video                               | Notes                        |
 | ---------------------------------- | ------- | -------------------------------------- | ------------------------------------------- | ---------------------------- |
@@ -19,10 +19,10 @@ last updated 2019-05-28 02:13 UTC
 | azder vs NightwolfXVI              | SG3     | https://www.twitch.tv/videos/429567979 | https://www.youtube.com/watch?v=pMpc9W-__c0 | End of interview was cut off |
 | Whewty vs croakomire               | SG2     | https://www.twitch.tv/videos/429570089 | https://www.youtube.com/watch?v=YVf1C2itlDc |                              |
 | Kipp vs TracieM                    | SG5     | https://www.twitch.tv/videos/429571527 | https://www.youtube.com/watch?v=2x4qPBouOzo |                              |
-| sweetnumb vs Maisgueuh             | SG3     | https://www.twitch.tv/videos/429572592 |                                             |                              |
-| iora vs swap_space                 | SG6     | https://www.twitch.tv/videos/429988462 |                                             |                              |
-| PeteZa_34 vs polarbearbunny        | SG      | https://www.twitch.tv/videos/429990321 |                                             |                              |
-| 64bit_link vs CanadianOwl          | SG      | https://www.twitch.tv/videos/429993537 |                                             |                              |
+| sweetnumb vs Maisgueuh             | SG3     | https://www.twitch.tv/videos/429572592 | https://www.youtube.com/watch?v=ZlfbEEaPi-M |                              |
+| iora vs swap_space                 | SG6     | https://www.twitch.tv/videos/429988462 | https://www.youtube.com/watch?v=8QrXuLEBBv4 |                              |
+| PeteZa_34 vs polarbearbunny        | SG      | https://www.twitch.tv/videos/429990321 | https://www.youtube.com/watch?v=4PN87d-X2oU |                              |
+| 64bit_link vs CanadianOwl          | SG      | https://www.twitch.tv/videos/429993537 | https://www.youtube.com/watch?v=H5FWjRwJoao |                              |
 | azder vs Hero_82                   | SG3     | https://www.twitch.tv/videos/430444347 |                                             |                              |
 | serberoth vs crossproduct          | SG      | https://www.twitch.tv/videos/430446528 |                                             |                              |
 | Gameaholic vs Feral                | SG3     | https://www.twitch.tv/videos/430449263 |                                             |                              |
