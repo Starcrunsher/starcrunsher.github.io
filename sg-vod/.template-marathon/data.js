@@ -1,4 +1,4 @@
-let marathonName = "MARATHON NAME"
+let marathonName = "MARATHON NAME";
 let dataObject = [
   {
     game: "", category: "", runner: "", commentator: "",
