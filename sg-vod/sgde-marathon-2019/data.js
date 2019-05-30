@@ -1,3 +1,4 @@
+let marathonName = "SGDE Marathon 2019"
 let dataObject = [
   {
     game: "Katana Zero", category: "All Stages", runner: "Dragonstrike1988", commentator: "Taale",
