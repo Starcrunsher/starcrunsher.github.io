@@ -2,7 +2,7 @@
 <html lang="de" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="refresh" content="5">
+    <meta http-equiv="refresh" content="10">
     <title></title>
     <style>
       td, th {
@@ -48,53 +48,63 @@
         let tr = document.createElement("tr");
         table.appendChild(tr);
 
+
         let td = document.createElement("td");
+        td.rowSpan = element.channel.length;
         td.innerHTML = element.players[0];
         if(element.players.length == 2) {
           td.innerHTML += ". " + element.players[1];
         }
         tr.appendChild(td);
 
-        td = document.createElement("td");
-        td.innerHTML = element.channel;
-        tr.appendChild(td);
 
-        td = document.createElement("td");
-        if(element.twitch_vod.length > 0) {
-          td.innerHTML = '<a href="https://www.twitch.tv/videos/' + element.twitch_vod + '">Twitch</a>'
-        }
-        tr.appendChild(td);
+        element.channel.forEach(function (subElement) {
+          td = document.createElement("td");
+          td.innerHTML = subElement.name;
+          tr.appendChild(td);
 
-        td = document.createElement("td");
-        if(element.youtube_vod.length > 0) {
-          td.innerHTML = '<a href="https://www.youtube.com/watch?v=' + element.youtube_vod + '">YouTube</a>'
-        }
-        tr.appendChild(td);
+          td = document.createElement("td");
+          if(subElement.twitch_vod.length > 0) {
+            td.innerHTML = '<a href="https://www.twitch.tv/videos/' + subElement.twitch_vod + '">Twitch</a>'
+          }
+          tr.appendChild(td);
 
-        td = document.createElement("td");
-        td.innerHTML = element.notes;
-        tr.appendChild(td);
+          td = document.createElement("td");
+          if(subElement.youtube_vod.length > 0) {
+            td.innerHTML = '<a href="https://www.youtube.com/watch?v=' + subElement.youtube_vod + '">YouTube</a>'
+          }
+          tr.appendChild(td);
 
-        let vodTitle = element.players[0] + ". ";
-        if(element.players.legend == 2) {
-          vodTitle += element.players[1] + ". ";
-        }
-        if(element.isSemiFinals === true) {
-          vodTitle += "SEMI-FINALS ";
-        } else if (element.isLosersFinals === true) {
-          vodTitle += "LOSER FINALS ";
-        } else if (element.isFinals === true) {
-          vodTitle += "FINALS ";
-        }
-        vodTitle += tournamentName;
+          td = document.createElement("td");
+          td.innerHTML = subElement.notes;
+          tr.appendChild(td);
 
-        td = document.createElement("td");
-        td.innerHTML = vodTitle;
-        tr.appendChild(td);
+          let vodTitle = element.players[0] + ". ";
+          if(element.players.length == 2) {
+            vodTitle += element.players[1] + ". ";
+          }
+          if(element.isSemiFinals === true) {
+            vodTitle += "SEMI-FINALS ";
+          } else if (element.isLosersFinals === true) {
+            vodTitle += "LOSER FINALS ";
+          } else if (element.isFinals === true) {
+            vodTitle += "FINALS ";
+          }
+          vodTitle += tournamentName;
 
-        td = document.createElement("td");
-        td.innerHTML = vodTitle.length;
-        tr.appendChild(td);
+          td = document.createElement("td");
+          td.innerHTML = vodTitle;
+          tr.appendChild(td);
+
+          td = document.createElement("td");
+          td.innerHTML = vodTitle.length;
+          tr.appendChild(td);
+
+          tr = document.createElement("tr");
+          table.appendChild(tr);
+        });
+
+
 
       });
 
