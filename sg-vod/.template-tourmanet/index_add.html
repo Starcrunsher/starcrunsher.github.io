@@ -13,7 +13,9 @@
   </head>
   <body>
     <table id="table" border="1">
-    </table>
+    </table><br />
+    <textarea id="description"></textarea><br />
+    <textarea id="tags"></textarea>
     <script type="text/javascript">
       let table = document.getElementById("table");
 
@@ -104,10 +106,20 @@
           table.appendChild(tr);
         });
 
+        let descriptionArea = document.getElementById("description");
+        descriptionArea.rows = tournamentDescription.split("\n").length + 1;
+        let descriptionWidth = 0;
+        tournamentDescription.split("\n").forEach(function(element) {
+          descriptionWidth = Math.max(descriptionWidth, element.length);
+        });
+        descriptionArea.cols = descriptionWidth + 2;
+        descriptionArea.value = tournamentDescription;
 
-
+        let tagsArea = document.getElementById("tags");
+        tagsArea.rows = 2;
+        tagsArea.cols = tournamentTags.length + 2;
+        tagsArea.value = tournamentTags;
       });
-
     </script>
   </body>
 </html>

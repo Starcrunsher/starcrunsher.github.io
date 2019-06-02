@@ -1,4 +1,9 @@
 let tournamentName = "TOURNAMENT NAME";
+let tournamentDescription =`TOURNAMENT DESCRIPTION 1
+TOURNAMENT DESCRIPTION 2
+TOURNAMENT DESCRIPTION 3
+TOURNAMENT DESCRIPTION 4`;
+let tournamentTags = "TOURNAMENT TAGS 1, TOURNAMENT TAGS 2";
 let dataObject = [
   {
     players: [""], channel: [
