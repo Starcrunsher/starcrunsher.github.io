@@ -1,4 +1,4 @@
-last updated 2019-06-01 13:36 UTC
+last updated 2019-06-02 10:16 UTC
 
 | Players                               | Channel | Twitch-VoD                             | Youtube-Video                               | Notes                        |
 | ------------------------------------- | ------- | -------------------------------------- | ------------------------------------------- | ---------------------------- |
@@ -37,4 +37,6 @@ last updated 2019-06-01 13:36 UTC
 | PeteZa_34 vs Toasty                   | SG6     | https://www.twitch.tv/videos/432977535 |                                             |                              |
 | Gameaholic vs Mesyr                   | SG4     | https://www.twitch.tv/videos/432978378 |                                             |                              |
 | sloaters27 vs BFrobber                | SG5     | https://www.twitch.tv/videos/432979173 |                                             |                              |
+| 64bit_link vs FusionWarrior           | SG3     | https://www.twitch.tv/videos/433401965 |                                             |                              |
+| SpaghettiToastBook vs Di10            | SG4     | https://www.twitch.tv/videos/433404045 |                                             |                              |
 |                                       |         |                                        |                                             |                              |
