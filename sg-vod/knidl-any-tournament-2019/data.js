@@ -1,4 +1,11 @@
 let tournamentName = "Kirby NIDL Any% Tournament 2019";
+let tournamentDescription =`Kirby Nightmare in Dream Land Any% Tournament 2019
+Schedule: http://speedgaming.org/knidl
+Challonge: https://challonge.com/knidlany2019
+Hosted on https://twitch.tv/speedgaming
+http://speedgaming.org/events
+#kirby #speedrun #speedgaming`;
+let tournamentTags = "kirby, dreamland, nintendo, tournament, race, rta, speedrun, speed run";
 let dataObject = [
   {
     players: ["Kinnin11 vs lozplyr89"], channel: [
@@ -273,6 +280,11 @@ let dataObject = [
   {
     players: ["Snipr_SR vs TheGreatToddman"], channel: [
       { name: "SpeedGaming3", twitch_vod: "433080706", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["Halodude862 vs bluebomber285"], channel: [
+      { name: "SpeedGaming", twitch_vod: "433405370", youtube_vod: "", notes: "" }
     ]
   }
 ];
