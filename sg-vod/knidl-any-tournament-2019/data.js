@@ -94,7 +94,7 @@ let dataObject = [
   },
   {
     players: ["LaurieDBunnykins vs Quil"], channel: [
-      { name: "SpeedGaming", twitch_vod: "432982176", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "432982176", youtube_vod: "lGNLZLyrqhc", notes: "" }
     ]
   },
   {
@@ -285,6 +285,11 @@ let dataObject = [
   {
     players: ["Halodude862 vs bluebomber285"], channel: [
       { name: "SpeedGaming", twitch_vod: "433405370", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["FasterSuperSonic vs Jayhawker"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "433946075", youtube_vod: "", notes: "" }
     ]
   }
 ];
