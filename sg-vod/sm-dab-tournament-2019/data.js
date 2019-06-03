@@ -150,37 +150,37 @@ let dataObject = [
   },
   {
     players: ["ptoil vs derp"], channel: [
-      { name: "SpeedGaming", twitch_vod: "432973027", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "432973027", youtube_vod: "6G0lCMZWFoc", notes: "" }
     ]
   },
   {
     players: ["azder vs sweetnumb"], channel: [
-      { name: "SpeedGaming2", twitch_vod: "432973936", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming2", twitch_vod: "432973936", youtube_vod: "maVPQRsicjE", notes: "" }
     ]
   },
   {
     players: ["mrguyaverage (guyaverage vs Maisgueuh"], channel: [
-      { name: "SpeedGaming3", twitch_vod: "432975257", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming3", twitch_vod: "432975257", youtube_vod: "NR7dYF5HY3w", notes: "" }
     ]
   },
   {
     players: ["EasyDanger vs LexausaurusRex"], channel: [
-      { name: "SpeedGaming6", twitch_vod: "432976923", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming6", twitch_vod: "432976923", youtube_vod: "B5OwkD9AqFI", notes: "" }
     ]
   },
   {
     players: ["PeteZa_34 vs Toasty"], channel: [
-      { name: "SpeedGaming6", twitch_vod: "432977535", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming6", twitch_vod: "432977535", youtube_vod: "MmMfCnrashY", notes: "" }
     ]
   },
   {
     players: ["Gameaholic vs Mesyr"], channel: [
-      { name: "SpeedGaming4", twitch_vod: "432978378", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming4", twitch_vod: "432978378", youtube_vod: "NO2nUqHm6S4", notes: "" }
     ]
   },
   {
     players: ["sloaters27 vs BFrobber"], channel: [
-      { name: "SpeedGaming5", twitch_vod: "432979173", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming5", twitch_vod: "432979173", youtube_vod: "QFvCDv4eR14", notes: "" }
     ]
   },
   {
@@ -191,6 +191,21 @@ let dataObject = [
   {
     players: ["SpaghettiToastBook vs Di10"], channel: [
       { name: "SpeedGaming4", twitch_vod: "433404045", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["NightwolfXVI vs Skarsnik"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "433950380", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["Rumbleminze vs Belthasar"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "433951384", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["croakomire vs CheeseReaver"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "433952296", youtube_vod: "", notes: "" }
     ]
   }
 ];

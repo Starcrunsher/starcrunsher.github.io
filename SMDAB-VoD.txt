@@ -1,4 +1,4 @@
-last updated 2019-06-02 10:16 UTC
+last updated 2019-06-03 16:37 UTC
 
 | Players                               | Channel | Twitch-VoD                             | Youtube-Video                               | Notes                        |
 | ------------------------------------- | ------- | -------------------------------------- | ------------------------------------------- | ---------------------------- |
@@ -30,13 +30,16 @@ last updated 2019-06-02 10:16 UTC
 | Rumbleminze vs Jaychalke              | SG      | https://www.twitch.tv/videos/430919387 | https://www.youtube.com/watch?v=qDZYswup8vo |                              |
 | WhiteMageBecky vs Skarsnik            | SG      | https://www.twitch.tv/videos/430921756 | https://www.youtube.com/watch?v=XffX8EKIZAg |                              |
 | Kipp vs polarbearbunny                | SG2     | https://www.twitch.tv/videos/430923558 |                                             |                              |
-| ptoil vs derp                         | SG      | https://www.twitch.tv/videos/432973027 |                                             |                              |
-| azder vs sweetnumb                    | SG2     | https://www.twitch.tv/videos/432973936 |                                             |                              |
-| mrguyaverage (guyaverage vs Maisgueuh | SG3     | https://www.twitch.tv/videos/432975257 |                                             |                              |
-| EasyDanger vs LexausaurusRex          | SG6     | https://www.twitch.tv/videos/432976923 |                                             |                              |
-| PeteZa_34 vs Toasty                   | SG6     | https://www.twitch.tv/videos/432977535 |                                             |                              |
-| Gameaholic vs Mesyr                   | SG4     | https://www.twitch.tv/videos/432978378 |                                             |                              |
-| sloaters27 vs BFrobber                | SG5     | https://www.twitch.tv/videos/432979173 |                                             |                              |
+| ptoil vs derp                         | SG      | https://www.twitch.tv/videos/432973027 | https://www.youtube.com/watch?v=6G0lCMZWFoc |                              |
+| azder vs sweetnumb                    | SG2     | https://www.twitch.tv/videos/432973936 | https://www.youtube.com/watch?v=maVPQRsicjE |                              |
+| mrguyaverage (guyaverage vs Maisgueuh | SG3     | https://www.twitch.tv/videos/432975257 | https://www.youtube.com/watch?v=NR7dYF5HY3w |                              |
+| EasyDanger vs LexausaurusRex          | SG6     | https://www.twitch.tv/videos/432976923 | https://www.youtube.com/watch?v=B5OwkD9AqFI |                              |
+| PeteZa_34 vs Toasty                   | SG6     | https://www.twitch.tv/videos/432977535 | https://www.youtube.com/watch?v=MmMfCnrashY |                              |
+| Gameaholic vs Mesyr                   | SG4     | https://www.twitch.tv/videos/432978378 | https://www.youtube.com/watch?v=NO2nUqHm6S4 |                              |
+| sloaters27 vs BFrobber                | SG5     | https://www.twitch.tv/videos/432979173 | https://www.youtube.com/watch?v=QFvCDv4eR14 |                              |
 | 64bit_link vs FusionWarrior           | SG3     | https://www.twitch.tv/videos/433401965 |                                             |                              |
 | SpaghettiToastBook vs Di10            | SG4     | https://www.twitch.tv/videos/433404045 |                                             |                              |
+| NightwolfXVI vs Skarsnik              | SG2     | https://www.twitch.tv/videos/433950380 |                                             |                              |
+| Rumbleminze vs Belthasar              | SG2     | https://www.twitch.tv/videos/433951384 |                                             |                              |
+| croakomire vs CheeseReaver            | SG2     | https://www.twitch.tv/videos/433952296 |                                             |                              |
 |                                       |         |                                        |                                             |                              |
