@@ -220,6 +220,6 @@ let dataObject = [
   players: [""], channel: [
     { name: "", twitch_vod: "", youtube_vod: "", notes: "" }
   ],
-  isSemiFinals: false, isLosersFinals: false, isFinals: false
+  bracketStage: false, isSemiFinals: false, isLosersFinals: false, isFinals: false
 }
 */
