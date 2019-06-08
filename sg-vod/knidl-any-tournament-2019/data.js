@@ -139,7 +139,7 @@ let dataObject = [
   },
   {
     players: ["FunkyCat229 vs Sharky2107"], channel: [
-      { name: "SpeedGaming", twitch_vod: "433050607", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "433050607", youtube_vod: "hlvTdgkZiPI", notes: "" }
     ]
   },
   {
@@ -174,22 +174,22 @@ let dataObject = [
   },
   {
     players: ["Quil vs Mmohasa"], channel: [
-      { name: "SpeedGaming", twitch_vod: "433028265", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "433028265", youtube_vod: "verM5uoUaAI", notes: "" }
     ]
   },
   {
     players: ["Kinnin11 vs DarkShadows59"], channel: [
-      { name: "SpeedGaming", twitch_vod: "433028984", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "433028984", youtube_vod: "1mKeL_9fuEc", notes: "" }
     ]
   },
   {
     players: ["Darksol88 vs Carbasi"], channel: [
-      { name: "SpeedGaming", twitch_vod: "433032635", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "433032635", youtube_vod: "Mtwt-3K-yjY", notes: "" }
     ]
   },
   {
     players: ["Kinnin11 vs Mayazumi"], channel: [
-      { name: "SpeedGaming3", twitch_vod: "433034893", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming3", twitch_vod: "433034893", youtube_vod: "0qAcF-CE7SI", notes: "" }
     ]
   },
   {
@@ -199,7 +199,7 @@ let dataObject = [
   },
   {
     players: ["thomasyim99 vs TheGreatToddman"], channel: [
-      { name: "SpeedGaming", twitch_vod: "433044130", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "433044130", youtube_vod: "p948eZI3SeA", notes: "" }
     ]
   },
   {
@@ -209,47 +209,47 @@ let dataObject = [
   },
   {
     players: ["Halodude862 vs chooch236"], channel: [
-      { name: "SpeedGaming", twitch_vod: "433052827", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "433052827", youtube_vod: "vpERJDdR6TA", notes: "" }
     ]
   },
   {
     players: ["Mayazumi vs DarkShadows59"], channel: [
-      { name: "SpeedGaming", twitch_vod: "433054597", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "433054597", youtube_vod: "gnzV5qoJW4w", notes: "" }
     ]
   },
   {
     players: ["thomasyim99 vs FunkyCat229"], channel: [
-      { name: "SpeedGaming3", twitch_vod: "433057149", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming3", twitch_vod: "433057149", youtube_vod: "HVHdcR77EYg", notes: "" }
     ]
   },
   {
     players: ["Mr_Shasta vs Jayhawker"], channel: [
-      { name: "SpeedGaming5", twitch_vod: "433058699", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming5", twitch_vod: "433058699", youtube_vod: "Ldfnu7A2Ag4", notes: "" }
     ]
   },
   {
     players: ["chooch236 vs Carbasi", "DarkShadows59 vs lozplyr89"], channel: [
-      { name: "SpeedGaming3", twitch_vod: "433061619", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming3", twitch_vod: "433061619", youtube_vod: "XaJky1Q4lgk", notes: "" }
     ]
   },
   {
     players: ["Kobral vs Snipr_SR"], channel: [
-      { name: "SpeedGaming5", twitch_vod: "433063107", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming5", twitch_vod: "433063107", youtube_vod: "GNhKGpQDlDI", notes: "" }
     ]
   },
   {
     players: ["Realer vs Carbasi"], channel: [
-      { name: "SpeedGaming3", twitch_vod: "433065488", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming3", twitch_vod: "433065488", youtube_vod: "w3wVDC_qyOs", notes: "" }
     ]
   },
   {
     players: ["Pro_Hybrid vs thiivdan"], channel: [
-      { name: "SpeedGaming3", twitch_vod: "433069061", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming3", twitch_vod: "433069061", youtube_vod: "OxoB6P9zRg8", notes: "" }
     ]
   },
   {
     players: ["thomasyim99 vs Snipr_SR"], channel: [
-      { name: "SpeedGaming3", twitch_vod: "433069060", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming3", twitch_vod: "433069060", youtube_vod: "XoILl9-aMRM", notes: "" }
     ]
   },
   {
@@ -259,12 +259,12 @@ let dataObject = [
   },
   {
     players: ["MKCocoon vs Kinnin11"], channel: [
-      { name: "SpeedGaming", twitch_vod: "433073251", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "433073251", youtube_vod: "dI-MaKD1t5A", notes: "" }
     ]
   },
   {
     players: ["Snipr_SR vs Sharky2107", "Jayhawker vs Marche_"], channel: [
-      { name: "SpeedGaming2", twitch_vod: "433074590", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming2", twitch_vod: "433074590", youtube_vod: "E1O-hJBJ2Hg", notes: "" }
     ]
   },
   {
@@ -274,27 +274,51 @@ let dataObject = [
   },
   {
     players: ["thomasyim99 vs Kobral"], channel: [
-      { name: "SpeedGaming3", twitch_vod: "433079119", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming3", twitch_vod: "433079119", youtube_vod: "D3sVrp0tG7g", notes: "" }
     ]
   },
   {
     players: ["Snipr_SR vs TheGreatToddman"], channel: [
-      { name: "SpeedGaming3", twitch_vod: "433080706", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming3", twitch_vod: "433080706", youtube_vod: "zU_ZDclozB0", notes: "" }
     ]
   },
   {
     players: ["Halodude862 vs bluebomber285"], channel: [
-      { name: "SpeedGaming", twitch_vod: "433405370", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "433405370", youtube_vod: "0fuf4o0XngI", notes: "" }
     ]
   },
   {
     players: ["FasterSuperSonic vs Jayhawker"], channel: [
-      { name: "SpeedGaming2", twitch_vod: "433946075", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming2", twitch_vod: "433946075", youtube_vod: "i_R3VuaFeWk", notes: "" }
     ]
   },
   {
     players: ["MKCocoon vs FunkyCat229"], channel: [
-      { name: "SpeedGaming", twitch_vod: "434413330", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "434413330", youtube_vod: "CxS4HBn4Hpw", notes: "" }
+    ],
+    bracketStage: true
+  },
+  {
+    players: ["Quil vs LaurieDBunnykins"], channel: [
+      { name: "SpeedGaming5", twitch_vod: "435938368", youtube_vod: "", notes: "" }
+    ],
+    bracketStage: true
+  },
+  {
+    players: ["chooch236 vs Kinnin11"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "435940073", youtube_vod: "", notes: "" }
+    ],
+    bracketStage: true
+  },
+  {
+    players: ["FasterSuperSonic vs Mr_Shasta"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "435940074", youtube_vod: "", notes: "" }
+    ],
+    bracketStage: true
+  },
+  {
+    players: ["thomasyim99 vs Snipr_SR"], channel: [
+      { name: "SpeedGaming", twitch_vod: "435945332", youtube_vod: "", notes: "" }
     ],
     bracketStage: true
   }
@@ -304,7 +328,8 @@ let dataObject = [
 {
   players: [""], channel: [
     { name: "", twitch_vod: "", youtube_vod: "", notes: "" }
-  ]
+  ],
+  bracketStage: true
 },
 {
   players: [""], channel: [
