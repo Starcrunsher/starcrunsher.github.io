@@ -300,25 +300,61 @@ let dataObject = [
   },
   {
     players: ["Quil vs LaurieDBunnykins"], channel: [
-      { name: "SpeedGaming5", twitch_vod: "435938368", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming5", twitch_vod: "435938368", youtube_vod: "DD_1MxIz2CU", notes: "" }
     ],
     bracketStage: true
   },
   {
     players: ["chooch236 vs Kinnin11"], channel: [
-      { name: "SpeedGaming2", twitch_vod: "435940073", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming2", twitch_vod: "435940073", youtube_vod: "LZRxmO_ct2Y", notes: "" }
     ],
     bracketStage: true
   },
   {
     players: ["FasterSuperSonic vs Mr_Shasta"], channel: [
-      { name: "SpeedGaming2", twitch_vod: "435940074", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming2", twitch_vod: "435940074", youtube_vod: "MlQSqC2RBLo", notes: "" }
     ],
     bracketStage: true
   },
   {
     players: ["thomasyim99 vs Snipr_SR"], channel: [
-      { name: "SpeedGaming", twitch_vod: "435945332", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "435945332", youtube_vod: "_GtuRGq0_RY", notes: "" }
+    ],
+    bracketStage: true
+  },
+  {
+    players: ["Darksol88 vs Jayhawker"], channel: [
+      { name: "SpeedGaming", twitch_vod: "438294043", youtube_vod: "", notes: "" }
+    ],
+    bracketStage: true
+  },
+  {
+    players: ["Halodude862 vs Mayazumi"], channel: [
+      { name: "SpeedGaming5", twitch_vod: "438295593", youtube_vod: "", notes: "" }
+    ],
+    bracketStage: true
+  },
+  {
+    players: ["Rox vs Kobral"], channel: [
+      { name: "SpeedGaming3", twitch_vod: "438297808", youtube_vod: "", notes: "" }
+    ],
+    bracketStage: true
+  },
+  {
+    players: ["Snipr_SR vs FasterSuperSonic"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "438299907", youtube_vod: "", notes: "" }
+    ],
+    bracketStage: true
+  },
+  {
+    players: ["LaurieDBunnykins vs Kinnin11"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "438302411", youtube_vod: "", notes: "" }
+    ],
+    bracketStage: true
+  },
+  {
+    players: ["Rox vs FunkyCat229"], channel: [
+      { name: "SpeedGaming", twitch_vod: "438304385", youtube_vod: "", notes: "" }
     ],
     bracketStage: true
   }
