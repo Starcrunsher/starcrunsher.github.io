@@ -1,4 +1,4 @@
-last updated 2019-06-08 00:44 UTC
+last updated 2019-06-13 04:02 UTC
 
 | Players                               | Channel | Twitch-VoD                             | Youtube-Video                               | Notes                        |
 | ------------------------------------- | ------- | -------------------------------------- | ------------------------------------------- | ---------------------------- |
@@ -42,9 +42,16 @@ last updated 2019-06-08 00:44 UTC
 | NightwolfXVI vs Skarsnik              | SG2     | https://www.twitch.tv/videos/433950380 | https://www.youtube.com/watch?v=AeVyqs6Ijko |                              |
 | Rumbleminze vs Belthasar              | SG2     | https://www.twitch.tv/videos/433951384 | https://www.youtube.com/watch?v=mPsVfO-k4fQ |                              |
 | croakomire vs CheeseReaver            | SG2     | https://www.twitch.tv/videos/433952296 | https://www.youtube.com/watch?v=0FkpqCZVUy8 |                              |
-| Feral vs derp                         | SG2     | https://www.twitch.tv/videos/435949434 |                                             |                              |
-| sloaters27 vs MassHesteria            | SG6     | https://www.twitch.tv/videos/435950360 |                                             |                              |
-| Whewty vs crossproduct                | SG4     | https://www.twitch.tv/videos/435951121 |                                             |                              |
-| Maniacal vs Hero_82                   | SG2     | https://www.twitch.tv/videos/435952517 |                                             |                              |
-| Rumbleminze vs sweetnumb              | SG4     | https://www.twitch.tv/videos/435953413 |                                             |                              |
+| Feral vs derp                         | SG2     | https://www.twitch.tv/videos/435949434 | https://www.youtube.com/watch?v=UzXTGi8AQo0 |                              |
+| sloaters27 vs MassHesteria            | SG6     | https://www.twitch.tv/videos/435950360 | https://www.youtube.com/watch?v=uwKUfAqytlg |                              |
+| Whewty vs crossproduct                | SG4     | https://www.twitch.tv/videos/435951121 | https://www.youtube.com/watch?v=ewyDoS_Fe7Y |                              |
+| Maniacal vs Hero_82                   | SG2     | https://www.twitch.tv/videos/435952517 | https://www.youtube.com/watch?v=AQehcI26qqY |                              |
+| Rumbleminze vs sweetnumb              | SG4     | https://www.twitch.tv/videos/435953413 | https://www.youtube.com/watch?v=pkBMRZa7jy4 |                              |
+| Toasty vs TracieM                     | SG      | https://www.twitch.tv/videos/438310274 |                                             |                              |
+|                   ^ (Part 2)          |         | https://www.twitch.tv/videos/438310324 |                                             |                              |
+| NightwolfXVI vs 64bit_link            | SG5     | https://www.twitch.tv/videos/438311504 |                                             |                              |
+| ARealCutie vs BFrobber                | SG2     | https://www.twitch.tv/videos/438314264 |                                             |                              |
+| ptoil vs Janus                        | SG2     | https://www.twitch.tv/videos/438317149 |                                             |                              |
+| CanadianOwl vs WhiteMageBecky         | SG2     | https://www.twitch.tv/videos/438318897 |                                             |                              |
+| serberoth vs BluePlasmaSpark          | SG2     | https://www.twitch.tv/videos/438322056 |                                             |                              |
 |                                       |         |                                        |                                             |                              |

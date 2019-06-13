@@ -210,27 +210,58 @@ let dataObject = [
   },
   {
     players: ["Feral vs derp"], channel: [
-      { name: "SpeedGaming2", twitch_vod: "435949434", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming2", twitch_vod: "435949434", youtube_vod: "UzXTGi8AQo0", notes: "" }
     ]
   },
   {
     players: ["sloaters27 vs MassHesteria"], channel: [
-      { name: "SpeedGaming6", twitch_vod: "435950360", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming6", twitch_vod: "435950360", youtube_vod: "uwKUfAqytlg", notes: "" }
     ]
   },
   {
     players: ["Whewty vs crossproduct"], channel: [
-      { name: "SpeedGaming4", twitch_vod: "435951121", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming4", twitch_vod: "435951121", youtube_vod: "ewyDoS_Fe7Y", notes: "" }
     ]
   },
   {
     players: ["Maniacal vs Hero_82"], channel: [
-      { name: "SpeedGaming2", twitch_vod: "435952517", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming2", twitch_vod: "435952517", youtube_vod: "AQehcI26qqY", notes: "" }
     ]
   },
   {
     players: ["Rumbleminze vs sweetnumb"], channel: [
-      { name: "SpeedGaming4", twitch_vod: "435953413", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming4", twitch_vod: "435953413", youtube_vod: "pkBMRZa7jy4", notes: "" }
+    ]
+  },
+  {
+    players: ["Toasty vs TracieM"], channel: [
+      { name: "SpeedGaming (Pt.1)", twitch_vod: "438310274", youtube_vod: "", notes: "" },
+      { name: "SpeedGaming (Pt.2)", twitch_vod: "438310324", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["NightwolfXVI vs 64bit_link"], channel: [
+      { name: "SpeedGaming5", twitch_vod: "438311504", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["ARealCutie vs BFrobber"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "438314264", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["ptoil vs Janus"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "438317149", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["CanadianOwl vs WhiteMageBecky"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "438318897", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["serberoth vs BluePlasmaSpark"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "438322056", youtube_vod: "", notes: "" }
     ]
   }
 ];
@@ -238,7 +269,7 @@ let dataObject = [
 ,
 {
   players: [""], channel: [
-    { name: "", twitch_vod: "", youtube_vod: "", notes: "" }
+    { name: "SpeedGaming", twitch_vod: "", youtube_vod: "", notes: "" }
   ]
 },
 {
