@@ -1,4 +1,4 @@
-last updated 2019-06-13 04:02 UTC
+last updated 2019-06-19 00:54 UTC
 
 | Players                               | Channel | Twitch-VoD                             | Youtube-Video                               | Notes                        |
 | ------------------------------------- | ------- | -------------------------------------- | ------------------------------------------- | ---------------------------- |
@@ -47,11 +47,19 @@ last updated 2019-06-13 04:02 UTC
 | Whewty vs crossproduct                | SG4     | https://www.twitch.tv/videos/435951121 | https://www.youtube.com/watch?v=ewyDoS_Fe7Y |                              |
 | Maniacal vs Hero_82                   | SG2     | https://www.twitch.tv/videos/435952517 | https://www.youtube.com/watch?v=AQehcI26qqY |                              |
 | Rumbleminze vs sweetnumb              | SG4     | https://www.twitch.tv/videos/435953413 | https://www.youtube.com/watch?v=pkBMRZa7jy4 |                              |
-| Toasty vs TracieM                     | SG      | https://www.twitch.tv/videos/438310274 |                                             |                              |
-|                   ^ (Part 2)          |         | https://www.twitch.tv/videos/438310324 |                                             |                              |
+| Toasty vs TracieM                     | SG      | https://www.twitch.tv/videos/438310274 | https://www.youtube.com/watch?v=gs-Uwf0d3hs |                              |
+|                   ^ (Part 2)          |         | https://www.twitch.tv/videos/438310324 | https://www.youtube.com/watch?v=D1eeiYMKnJM |                              |
 | NightwolfXVI vs 64bit_link            | SG5     | https://www.twitch.tv/videos/438311504 |                                             |                              |
 | ARealCutie vs BFrobber                | SG2     | https://www.twitch.tv/videos/438314264 |                                             |                              |
 | ptoil vs Janus                        | SG2     | https://www.twitch.tv/videos/438317149 |                                             |                              |
 | CanadianOwl vs WhiteMageBecky         | SG2     | https://www.twitch.tv/videos/438318897 |                                             |                              |
 | serberoth vs BluePlasmaSpark          | SG2     | https://www.twitch.tv/videos/438322056 |                                             |                              |
+| EasyDanger vs papert1ger              | SG3     | https://www.twitch.tv/videos/441017447 |                                             |                              |
+| azder vs Toasty                       | SG2     | https://www.twitch.tv/videos/441019978 |                                             |                              |
+| derp vs crossproduct                  | SG      | https://www.twitch.tv/videos/441021367 |                                             |                              |
+| Maisgueuh vs Hero_82                  | SG2     | https://www.twitch.tv/videos/441022309 |                                             |                              |
+| Jaychalke vs Aerytheta                | SG4     | https://www.twitch.tv/videos/441023103 |                                             |                              |
+| ARC vs Di10                           | SG5     | https://www.twitch.tv/videos/441025407 |                                             |                              |
+| BluePlasmaSpark vs croakomire         | SG      | https://www.twitch.tv/videos/441026911 |                                             |                              |
+| Feral vs 64bit_link                   | SG      | https://www.twitch.tv/videos/441027516 |                                             |                              |
 |                                       |         |                                        |                                             |                              |

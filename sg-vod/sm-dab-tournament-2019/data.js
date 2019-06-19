@@ -235,8 +235,8 @@ let dataObject = [
   },
   {
     players: ["Toasty vs TracieM"], channel: [
-      { name: "SpeedGaming (Pt.1)", twitch_vod: "438310274", youtube_vod: "", notes: "" },
-      { name: "SpeedGaming (Pt.2)", twitch_vod: "438310324", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming (Pt.1)", twitch_vod: "438310274", youtube_vod: "gs-Uwf0d3hs", notes: "" },
+      { name: "SpeedGaming (Pt.2)", twitch_vod: "438310324", youtube_vod: "D1eeiYMKnJM", notes: "" }
     ]
   },
   {
@@ -262,6 +262,46 @@ let dataObject = [
   {
     players: ["serberoth vs BluePlasmaSpark"], channel: [
       { name: "SpeedGaming2", twitch_vod: "438322056", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["EasyDanger vs papert1ger"], channel: [
+      { name: "SpeedGaming3", twitch_vod: "441017447", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["azder vs Toasty"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "441019978", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["derp vs crossproduct"], channel: [
+      { name: "SpeedGaming", twitch_vod: "441021367", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["Maisgueuh vs Hero_82"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "441022309", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["Jaychalke vs Aerytheta"], channel: [
+      { name: "SpeedGaming4", twitch_vod: "441023103", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["ARC vs Di10"], channel: [
+      { name: "SpeedGaming5", twitch_vod: "441025407", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["BluePlasmaSpark vs croakomire"], channel: [
+      { name: "SpeedGaming", twitch_vod: "441026911", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["Feral vs 64bit_link"], channel: [
+      { name: "SpeedGaming", twitch_vod: "441027516", youtube_vod: "", notes: "" }
     ]
   }
 ];
