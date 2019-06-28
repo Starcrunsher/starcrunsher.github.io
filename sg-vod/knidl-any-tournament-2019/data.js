@@ -254,7 +254,7 @@ let dataObject = [
   },
   {
     players: ["FasterSuperSonic vs Mr_Shasta"], channel: [
-      { name: "SpeedGaming", twitch_vod: "433072604", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "433072604", youtube_vod: "rsxyy0tbzzM", notes: "" }
     ]
   },
   {
@@ -336,7 +336,7 @@ let dataObject = [
   },
   {
     players: ["Rox vs Kobral"], channel: [
-      { name: "SpeedGaming3", twitch_vod: "438297808", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming3", twitch_vod: "438297808", youtube_vod: "qA5g4KPA_lI", notes: "" }
     ],
     bracketStage: true
   },
@@ -360,31 +360,85 @@ let dataObject = [
   },
   {
     players: ["Darksol88 vs Mayazumi"], channel: [
-      { name: "SpeedGaming", twitch_vod: "441003813", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "441003813", youtube_vod: "kh7JWIBkJ7k", notes: "" }
     ],
     bracketStage: true
   },
   {
     players: ["Quil vs chooch236"], channel: [
-      { name: "SpeedGaming3", twitch_vod: "441004856", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming3", twitch_vod: "441004856", youtube_vod: "AucK1SRYZ5c", notes: "" }
     ],
     bracketStage: true
   },
   {
     players: ["MKCocoon vs Kobral", "Halodude862 vs Jayhawker"], channel: [
-      { name: "SpeedGaming2", twitch_vod: "441005906", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming2", twitch_vod: "441005906", youtube_vod: "k3rFEY6fhQA", notes: "" }
     ],
     bracketStage: true
   },
   {
     players: ["chooch236 vs Snipr_SR"], channel: [
-      { name: "SpeedGaming2", twitch_vod: "441007755", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming2", twitch_vod: "441007755", youtube_vod: "aPlcRl0Vvj8", notes: "" }
     ],
     bracketStage: true
   },
   {
     players: ["thomasyim99 vs Mr_Shasta"], channel: [
-      { name: "SpeedGaming3", twitch_vod: "441010122", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming3", twitch_vod: "441010122", youtube_vod: "5if5K7maZjg", notes: "" }
+    ],
+    bracketStage: true
+  },
+  {
+    players: ["MKCocoon vs Darksol88"], channel: [
+      { name: "SpeedGaming", twitch_vod: "445206634", youtube_vod: "", notes: "" }
+    ],
+    bracketStage: true
+  },
+  {
+    players: ["Rox vs Jayhawker"], channel: [
+      { name: "SpeedGaming", twitch_vod: "445209407", youtube_vod: "", notes: "" }
+    ],
+    bracketStage: true
+  },
+  {
+    players: ["Rox vs chooch236"], channel: [
+      { name: "SpeedGaming", twitch_vod: "445209408", youtube_vod: "", notes: "" }
+    ],
+    bracketStage: true
+  },
+  {
+    players: ["thomasyim99 vs Kinnin11"], channel: [
+      { name: "SpeedGaming", twitch_vod: "445210403", youtube_vod: "", notes: "" }
+    ],
+    bracketStage: true
+  },
+  {
+    players: ["Kobral vs Mr_Shasta"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "445211944", youtube_vod: "", notes: "" }
+    ],
+    bracketStage: true
+  },
+  {
+    players: ["Halodude862 vs Quil"], channel: [
+      { name: "SpeedGaming", twitch_vod: "445212732", youtube_vod: "", notes: "" }
+    ],
+    bracketStage: true
+  },
+  {
+    players: ["MKCocoon vs thomasyim99"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "445215978", youtube_vod: "", notes: "" }
+    ],
+    bracketStage: true
+  },
+  {
+    players: ["Rox vs Kobral"], channel: [
+      { name: "SpeedGaming", twitch_vod: "445217050", youtube_vod: "", notes: "" }
+    ],
+    bracketStage: true
+  },
+  {
+    players: ["MKCocoon vs Halodude862"], channel: [
+      { name: "SpeedGaming", twitch_vod: "445217887", youtube_vod: "", notes: "" }
     ],
     bracketStage: true
   }
@@ -393,13 +447,13 @@ let dataObject = [
 ,
 {
   players: [""], channel: [
-    { name: "", twitch_vod: "", youtube_vod: "", notes: "" }
+    { name: "SpeedGaming", twitch_vod: "", youtube_vod: "", notes: "" }
   ],
   bracketStage: true
 },
 {
   players: [""], channel: [
-    { name: "", twitch_vod: "", youtube_vod: "", notes: "" }
+    { name: "SpeedGaming", twitch_vod: "", youtube_vod: "", notes: "" }
   ],
   bracketStage: false, isSemiFinals: false, isLosersFinals: false, isFinals: false
 }
