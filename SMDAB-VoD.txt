@@ -1,4 +1,4 @@
-last updated 2019-06-28 02:40 UTC
+last updated 2019-07-11 09:20 UTC
 
 | Players                               | Channel | Twitch-VoD                             | Youtube-Video                               | Notes                        |
 | ------------------------------------- | ------- | -------------------------------------- | ------------------------------------------- | ---------------------------- |
@@ -62,10 +62,15 @@ last updated 2019-06-28 02:40 UTC
 | ARC vs Di10                           | SG5     | https://www.twitch.tv/videos/441025407 | https://www.youtube.com/watch?v=lukxmGn32gs |                              |
 | BluePlasmaSpark vs croakomire         | SG      | https://www.twitch.tv/videos/441026911 | https://www.youtube.com/watch?v=ClgsES8lSSc |                              |
 | Feral vs 64bit_link                   | SG      | https://www.twitch.tv/videos/441027516 | https://www.youtube.com/watch?v=d8LudfJTFCY |                              |
-| MassHesteria vs BluePlasmaSpark       | SG4     | https://www.twitch.tv/videos/445223333 |                                             |                              |
-| Jaychalke vs iora                     | SG3     | https://www.twitch.tv/videos/445224129 |                                             |                              |
-| ptoil vs Mesyr                        | SG2     | https://www.twitch.tv/videos/445225437 |                                             |                              |
-| sloaters27 vs CanadianOwl             | SG      | https://www.twitch.tv/videos/445227216 |                                             |                              |
-| Hero_82 vs polarbearbunny             | SG      | https://www.twitch.tv/videos/445228281 |                                             |                              |
-| ptoil vs WhiteMageBecky               | SG      | https://www.twitch.tv/videos/445228997 |                                             |                              |
+| MassHesteria vs BluePlasmaSpark       | SG4     | https://www.twitch.tv/videos/445223333 | https://www.youtube.com/watch?v=6vJ2nJD0Zdw |                              |
+| Jaychalke vs iora                     | SG3     | https://www.twitch.tv/videos/445224129 | https://www.youtube.com/watch?v=6zSkKDbKCoI |                              |
+| ptoil vs Mesyr                        | SG2     | https://www.twitch.tv/videos/445225437 | https://www.youtube.com/watch?v=6u74gya_xKc |                              |
+| sloaters27 vs CanadianOwl             | SG      | https://www.twitch.tv/videos/445227216 | https://www.youtube.com/watch?v=6_2J3fUFA5Q |                              |
+| Hero_82 vs polarbearbunny             | SG      | https://www.twitch.tv/videos/445228281 | https://www.youtube.com/watch?v=nb4KDHPFEHo |                              |
+| ptoil vs WhiteMageBecky               | SG      | https://www.twitch.tv/videos/445228997 | https://www.youtube.com/watch?v=07JkkUBaOio |                              |
+| Ddraig vs EasyDanger                  | SG      | https://www.twitch.tv/videos/451204318 |                                             |                              |
+| Ddraig vs Belthasar                   | SG      | https://www.twitch.tv/videos/451204481 |                                             |                              |
+| Whewty vs ARC                         | SG2     | https://www.twitch.tv/videos/451205439 |                                             |                              |
+| Kipp vs FreyasSpirit                  | SG2     | https://www.twitch.tv/videos/451205685 |                                             |                              |
+| Kipp vs sloaters27                    | SG      | https://www.twitch.tv/videos/451206102 |                                             |                              |
 |                                       |         |                                        |                                             |                              |

@@ -306,32 +306,57 @@ let dataObject = [
   },
   {
     players: ["MassHesteria vs BluePlasmaSpark"], channel: [
-      { name: "SpeedGaming4", twitch_vod: "445223333", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming4", twitch_vod: "445223333", youtube_vod: "6vJ2nJD0Zdw", notes: "" }
     ]
   },
   {
     players: ["Jaychalke vs iora"], channel: [
-      { name: "SpeedGaming3", twitch_vod: "445224129", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming3", twitch_vod: "445224129", youtube_vod: "6zSkKDbKCoI", notes: "" }
     ]
   },
   {
     players: ["ptoil vs Mesyr"], channel: [
-      { name: "SpeedGaming2", twitch_vod: "445225437", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming2", twitch_vod: "445225437", youtube_vod: "6u74gya_xKc", notes: "" }
     ]
   },
   {
     players: ["sloaters27 vs CanadianOwl"], channel: [
-      { name: "SpeedGaming", twitch_vod: "445227216", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "445227216", youtube_vod: "6_2J3fUFA5Q", notes: "" }
     ]
   },
   {
     players: ["Hero_82 vs polarbearbunny"], channel: [
-      { name: "SpeedGaming", twitch_vod: "445228281", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "445228281", youtube_vod: "nb4KDHPFEHo", notes: "" }
     ]
   },
   {
     players: ["ptoil vs WhiteMageBecky"], channel: [
-      { name: "SpeedGaming", twitch_vod: "445228997", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "445228997", youtube_vod: "07JkkUBaOio", notes: "" }
+    ]
+  },
+  {
+    players: ["Ddraig vs EasyDanger"], channel: [
+      { name: "SpeedGaming", twitch_vod: "451204318", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["Ddraig vs Belthasar"], channel: [
+      { name: "SpeedGaming", twitch_vod: "451204481", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["Whewty vs ARC"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "451205439", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["Kipp vs FreyasSpirit"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "451205685", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["Kipp vs sloaters27"], channel: [
+      { name: "SpeedGaming", twitch_vod: "451206102", youtube_vod: "", notes: "" }
     ]
   }
 ];
