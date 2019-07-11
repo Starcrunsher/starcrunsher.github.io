@@ -390,57 +390,75 @@ let dataObject = [
   },
   {
     players: ["MKCocoon vs Darksol88"], channel: [
-      { name: "SpeedGaming", twitch_vod: "445206634", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "445206634", youtube_vod: "hFSdkx7VuC4", notes: "" }
     ],
     bracketStage: true
   },
   {
     players: ["Rox vs Jayhawker"], channel: [
-      { name: "SpeedGaming", twitch_vod: "445209407", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "445209407", youtube_vod: "BR3zF23s978", notes: "" }
     ],
     bracketStage: true
   },
   {
     players: ["Rox vs chooch236"], channel: [
-      { name: "SpeedGaming", twitch_vod: "445209408", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "445209408", youtube_vod: "WjsgMZ1iiKA", notes: "" }
     ],
     bracketStage: true
   },
   {
     players: ["thomasyim99 vs Kinnin11"], channel: [
-      { name: "SpeedGaming", twitch_vod: "445210403", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "445210403", youtube_vod: "GAtj-csCXEY", notes: "" }
     ],
     bracketStage: true
   },
   {
     players: ["Kobral vs Mr_Shasta"], channel: [
-      { name: "SpeedGaming2", twitch_vod: "445211944", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming2", twitch_vod: "445211944", youtube_vod: "07SYQ1gBrgc", notes: "" }
     ],
     bracketStage: true
   },
   {
     players: ["Halodude862 vs Quil"], channel: [
-      { name: "SpeedGaming", twitch_vod: "445212732", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "445212732", youtube_vod: "qqHdctuAA0g", notes: "" }
     ],
     bracketStage: true
   },
   {
     players: ["MKCocoon vs thomasyim99"], channel: [
-      { name: "SpeedGaming2", twitch_vod: "445215978", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming2", twitch_vod: "445215978", youtube_vod: "GuqfbpXnGD8", notes: "" }
     ],
     bracketStage: true
   },
   {
     players: ["Rox vs Kobral"], channel: [
-      { name: "SpeedGaming", twitch_vod: "445217050", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "445217050", youtube_vod: "n2jnhU4shq4", notes: "" }
     ],
     bracketStage: true
   },
   {
     players: ["MKCocoon vs Halodude862"], channel: [
-      { name: "SpeedGaming", twitch_vod: "445217887", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "445217887", youtube_vod: "dQmvDLy2paM", notes: "" }
     ],
     bracketStage: true
+  },
+  {
+    players: ["MKCocoon vs Rox"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "451201414", youtube_vod: "", notes: "" }
+    ],
+    bracketStage: true
+  },
+  {
+    players: ["Quil vs Mr_Shasta"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "451201771", youtube_vod: "", notes: "" }
+    ],
+    bracketStage: true, isWinnerFinals: true
+  },
+  {
+    players: ["MKCocoon vs Mr_Shasta"], channel: [
+      { name: "SpeedGaming", twitch_vod: "451202606", youtube_vod: "", notes: "" }
+    ],
+    bracketStage: true, isLosersFinals: true
   }
 ];
 /*
