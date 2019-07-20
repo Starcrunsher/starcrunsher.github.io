@@ -336,27 +336,67 @@ let dataObject = [
   },
   {
     players: ["Ddraig vs EasyDanger"], channel: [
-      { name: "SpeedGaming", twitch_vod: "451204318", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "451204318", youtube_vod: "TmiM-Svj6TA", notes: "" }
     ]
   },
   {
     players: ["Ddraig vs Belthasar"], channel: [
-      { name: "SpeedGaming", twitch_vod: "451204481", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "451204481", youtube_vod: "qeHhglu1HJo", notes: "" }
     ]
   },
   {
     players: ["Whewty vs ARC"], channel: [
-      { name: "SpeedGaming2", twitch_vod: "451205439", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming2", twitch_vod: "451205439", youtube_vod: "o2SGly_EYjM", notes: "" }
     ]
   },
   {
     players: ["Kipp vs FreyasSpirit"], channel: [
-      { name: "SpeedGaming2", twitch_vod: "451205685", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming2", twitch_vod: "451205685", youtube_vod: "n9ImDKs--Fg", notes: "" }
     ]
   },
   {
     players: ["Kipp vs sloaters27"], channel: [
-      { name: "SpeedGaming", twitch_vod: "451206102", youtube_vod: "", notes: "" }
+      { name: "SpeedGaming", twitch_vod: "451206102", youtube_vod: "Uhgt-Uni_jg", notes: "" }
+    ]
+  },
+  {
+    players: ["Ddraig vs azder"], channel: [
+      { name: "SpeedGaming", twitch_vod: "455415746", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["ptoil vs beeps"], channel: [
+      { name: "SpeedGaming4", twitch_vod: "455416238", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["derp vs Rumbleminze"], channel: [
+      { name: "SpeedGaming2", twitch_vod: "455416626", youtube_vod: "", notes: "first three minutes are missing" }
+    ]
+  },
+  {
+    players: ["Whewty vs Feral"], channel: [
+      { name: "SpeedGaming", twitch_vod: "455418233", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["CanadianOwl vs azder"], channel: [
+      { name: "SpeedGaming", twitch_vod: "455418850", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["beeps vs sweetnumb"], channel: [
+      { name: "SpeedGaming3", twitch_vod: "455419302", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["Hero_82 vs crossproduct"], channel: [
+      { name: "SpeedGaming", twitch_vod: "455419998", youtube_vod: "", notes: "" }
+    ]
+  },
+  {
+    players: ["Kipp vs derp"], channel: [
+      { name: "SpeedGaming", twitch_vod: "455420521", youtube_vod: "", notes: "" }
     ]
   }
 ];
