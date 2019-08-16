@@ -1,0 +1,30 @@
+div.table {
+  text-align: justify;
+
+  display: table;
+  border-collapse: collapse;
+  margin: 20px auto;
+  font-size: 30px;
+  font-weight: bold;
+}
+div.tr {
+  display: table-row;
+  height: 76px;
+}
+
+div.td {
+  display: table-cell;
+  border-color: white;
+  border-width: 0px;
+  border-style: dashed;
+  vertical-align: middle;
+}
+
+div.image {
+  height: 70px;
+  width: 70px;
+}
+div.text {
+  padding-left: 20px;
+  padding-right: 20px;
+}
