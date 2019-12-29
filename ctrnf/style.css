@@ -1,6 +1,7 @@
 body {
     background-color: lightslategray;
-    
+    font-size: 1.1rem;
+    font-weight: bold;
 }
 table, td {
     border: 1px solid darkslategray;
