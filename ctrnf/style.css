@@ -19,3 +19,7 @@ td.right {
 td.five {
     background-color: #ffffff22;
 }
+
+a, a:link, a:visited, a:hover, a:active {
+    color: black;
+  }

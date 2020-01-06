@@ -1,43 +1,12 @@
 body {
-  background-image: url("background.png");
-  background-color: #000000;
   text-align: center;
+  background-color: #0F0E11;
   margin: 8px auto;
   font-family: Arial;
   font-weight: bold;
   color: #8efab4;
 }
 
-div.text {
-  text-shadow: rgba(0, 0, 0, .5) -1px -1px 1px,
-                rgba(0, 0, 0, .5) -1px 0px 1px,
-                rgba(0, 0, 0, .5) -1px 1px 1px,
-                rgba(0, 0, 0, .5) 0px -1px 1px,
-                rgba(0, 0, 0, .5) 0px 1px 1px,
-                rgba(0, 0, 0, .5) 1px -1px 1px,
-                rgba(0, 0, 0, .5) 1px 0px 1px,
-                rgba(0, 0, 0, .5) 1px 1px 1px,
-
-                rgba(0, 0, 0, 0.3) -2px -2px 3px,
-                rgba(0, 0, 0, 0.3) -2px -1px 3px,
-                rgba(0, 0, 0, 0.3) -2px -0px 3px,
-                rgba(0, 0, 0, 0.3) -2px 1px 3px,
-                rgba(0, 0, 0, 0.3) -2px 2px 3px,
-
-                rgba(0, 0, 0, 0.3) -1px -2px 3px,
-                rgba(0, 0, 0, 0.3) 0px -2px 3px,
-                rgba(0, 0, 0, 0.3) 1px -2px 3px,
-
-                rgba(0, 0, 0, 0.3) -1px 2px 3px,
-                rgba(0, 0, 0, 0.3) 0px 2px 3px,
-                rgba(0, 0, 0, 0.3) 1px 2px 3px,
-
-                rgba(0, 0, 0, 0.3) 2px -2px 3px,
-                rgba(0, 0, 0, 0.3) 2px -1px 3px,
-                rgba(0, 0, 0, 0.3) 2px -0px 3px,
-                rgba(0, 0, 0, 0.3) 2px 1px 3px,
-                rgba(0, 0, 0, 0.3) 2px 2px 3px;
-}
 
 div.top-container {
   margin: 30px 0px;
