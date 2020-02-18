@@ -1,0 +1,49 @@
+body {
+    background-color: lightslategray;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+table, td {
+    border: 1px solid darkslategray;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+td {
+    padding: 2px 5px;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+td.right {
+    text-align: right;
+}
+td.five {
+    background-color: #ffffff22;
+}
+
+a, a:link, a:visited, a:hover, a:active {
+    color: black;
+}
+
+.tooltip {
+    position: relative;
+    /* display: inline-block; */
+    border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 260px;
+    background-color: #000000aa;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext, .tooltip:active .tooltiptext {
+    visibility: visible;
+}
