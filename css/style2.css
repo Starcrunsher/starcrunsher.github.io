@@ -1,16 +1,23 @@
 body {
-    background-color: lightslategray;
+    background-color: #251f32;
+    color: #CCCCCC;
     font-size: 1.1rem;
     font-weight: bold;
+    text-align: center;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    /* text-align: center; */
 }
 table, td {
-    border: 1px solid darkslategray;
+    border: 1px solid #595e9e;
     border-spacing: 0;
     border-collapse: collapse;
 }
 td {
     padding: 2px 5px;
-    font-weight: bold;
+    font-weight: normal;
     font-size: 1.1rem;
 }
 td.right {
@@ -21,19 +28,19 @@ td.five {
 }
 
 a, a:link, a:visited, a:hover, a:active {
-    color: black;
+    color: #CCCCCC;
 }
 
 .tooltip {
     position: relative;
     /* display: inline-block; */
-    border-bottom: 1px dotted black;
+    border-bottom: 1px dotted white;
 }
 
 .tooltip .tooltiptext {
     visibility: hidden;
     width: 260px;
-    background-color: #000000aa;
+    background-color: #000000cc;
     color: #fff;
     text-align: center;
     border-radius: 6px;

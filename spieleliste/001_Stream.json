@@ -1,21 +1,21 @@
 {
-    "Celeste": {
-        "addInfo": "",
-        "otherPriority": ""
-    },
-    "Crash Team Racing: Nitro Fueled": {
-        "addInfo": "",
-        "otherPriority": ""
-    },
-    "Dead Cells": {
-        "addInfo": "",
-        "otherPriority": ""
-    },
-    "Shovel Knight (King Knight DLC)": {
-        "addInfo": "",
+    "Shovel Knight": {
+        "addInfo": "King Knight DLC",
         "otherPriority": ""
     },
     "Lost Ember": {
+        "addInfo": "100%?",
+        "otherPriority": ""
+    },
+    "Celeste": {
+        "addInfo": "Farewell Golden Strawberry Attempts",
+        "otherPriority": ""
+    },
+    "Crash Team Racing: Nitro Fueled": {
+        "addInfo": "Speedruns",
+        "otherPriority": ""
+    },
+    "Dead Cells": {
         "addInfo": "",
         "otherPriority": ""
     }
