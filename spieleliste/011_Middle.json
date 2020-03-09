@@ -155,9 +155,17 @@
         "addInfo": "",
         "otherPriority": ""
     },
+    "InnerSpace": {
+        "addInfo": "",
+        "otherPriority": "high?"
+    },
     "INSIDE": {
         "addInfo": "",
         "otherPriority": ""
+    },
+    "Okami HD": {
+        "addInfo": "",
+        "otherPriority": "high?"
     },
     "Owlboy": {
         "addInfo": "",
@@ -192,6 +200,10 @@
         "otherPriority": ""
     },
     "Unbox": {
+        "addInfo": "",
+        "otherPriority": ""
+    },
+    "Underhero": {
         "addInfo": "",
         "otherPriority": ""
     },
