@@ -13,7 +13,7 @@
     },
     "Aaero": {
         "addInfo": "",
-        "otherPriority": "high?"
+        "otherPriority": ""
     },
     "Aegis Defenders": {
         "addInfo": "",
@@ -24,6 +24,10 @@
         "otherPriority": ""
     },
     "Bastion": {
+        "addInfo": "",
+        "otherPriority": ""
+    },
+    "Battle Block Theater": {
         "addInfo": "",
         "otherPriority": ""
     },
@@ -85,15 +89,11 @@
     },
     "Deiland": {
         "addInfo": "",
-        "otherPriority": "high?"
+        "otherPriority": ""
     },
     "DLC Quest": {
         "addInfo": "",
         "otherPriority": ""
-    },
-    "Donut County": {
-        "addInfo": "",
-        "otherPriority": "High?"
     },
     "Duet": {
         "addInfo": "",
@@ -131,10 +131,6 @@
         "addInfo": "",
         "otherPriority": ""
     },
-    "Flat Heroes": {
-        "addInfo": "",
-        "otherPriority": ""
-    },
     "forma.8": {
         "addInfo": "",
         "otherPriority": ""
@@ -161,7 +157,7 @@
     },
     "InnerSpace": {
         "addInfo": "",
-        "otherPriority": "high?"
+        "otherPriority": ""
     },
     "Kao the Kangaroo: Round 2": {
         "addInfo": "",
@@ -169,7 +165,7 @@
     },
     "MO:Astray": {
         "addInfo": "",
-        "otherPriority": "high?"
+        "otherPriority": ""
     },
     "My Friend Pedro": {
         "addInfo": "",
@@ -177,7 +173,7 @@
     },
     "Okami HD": {
         "addInfo": "",
-        "otherPriority": "high?"
+        "otherPriority": ""
     },
     "Owlboy": {
         "addInfo": "",
@@ -189,7 +185,7 @@
     },
     "Rex: Another Island": {
         "addInfo": "",
-        "otherPriority": "high?"
+        "otherPriority": ""
     },
     "RiME": {
         "addInfo": "",
@@ -205,7 +201,7 @@
     },
     "Supraland": {
         "addInfo": "",
-        "otherPriority": "high?"
+        "otherPriority": ""
     },
     "The Adventure Pals": {
         "addInfo": "",
@@ -215,9 +211,13 @@
         "addInfo": "",
         "otherPriority": ""
     },
+    "The Messenger": {
+        "addInfo": "",
+        "otherPriority": ""
+    },
     "The Swords of Ditto": {
         "addInfo": "",
-        "otherPriority": "high?"
+        "otherPriority": ""
     },
     "The Witness": {
         "addInfo": "",
