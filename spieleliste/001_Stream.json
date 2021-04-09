@@ -1,4 +1,8 @@
 {
+    "Creature in the Well": {
+        "addInfo": "",
+        "otherPriority": ""
+    },
     "Hades": {
         "addInfo": "",
         "otherPriority": ""
@@ -11,7 +15,11 @@
         "addInfo": "",
         "otherPriority": ""
     },
-    "Dicey Dungeons": {
+    "Dorfromantik": {
+        "addInfo": "",
+        "otherPriority": ""
+    },
+    "ISANDERS": {
         "addInfo": "",
         "otherPriority": ""
     },
