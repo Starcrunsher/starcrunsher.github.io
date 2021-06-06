@@ -1,9 +1,9 @@
 {
-    "10,000,000": {
+    "100% Orange Juice": {
         "addInfo": "",
         "otherPriority": ""
     },
-    "100% Orange Juice": {
+    "10000000": {
         "addInfo": "",
         "otherPriority": ""
     },
@@ -16,6 +16,10 @@
         "otherPriority": ""
     },
     "3 out of 10, Ep. 1: \"Welcome to Shovelworks\"": {
+        "addInfo": "",
+        "otherPriority": ""
+    },
+    "3 out of 10: Season Two": {
         "addInfo": "",
         "otherPriority": ""
     },
@@ -84,6 +88,10 @@
         "otherPriority": ""
     },
     "Amnesia: The Dark Descent": {
+        "addInfo": "",
+        "otherPriority": ""
+    },
+    "Among Us": {
         "addInfo": "",
         "otherPriority": ""
     },
@@ -191,6 +199,10 @@
         "addInfo": "",
         "otherPriority": ""
     },
+    "ASTRO BOT Rescue Mission": {
+        "addInfo": "PSVR",
+        "otherPriority": ""
+    },
     "Audiosurf": {
         "addInfo": "",
         "otherPriority": ""
@@ -252,6 +264,10 @@
         "otherPriority": ""
     },
     "Battlefield 3": {
+        "addInfo": "",
+        "otherPriority": ""
+    },
+    "Battlefield V": {
         "addInfo": "",
         "otherPriority": ""
     },
@@ -615,6 +631,10 @@
         "addInfo": "",
         "otherPriority": ""
     },
+    "Deponia: The Complete Journey": {
+        "addInfo": "",
+        "otherPriority": ""
+    },
     "Desert Child": {
         "addInfo": "",
         "otherPriority": ""
@@ -622,10 +642,6 @@
     "Destiny 2": {
         "addInfo": "",
         "otherPriority": ""
-    },
-    "Detroit: Become Human": {
-        "addInfo": "",
-        "otherPriority": "low?"
     },
     "Deus Ex: Human Revolution - Director's Cut": {
         "addInfo": "",
@@ -852,6 +868,10 @@
         "otherPriority": ""
     },
     "Faeria": {
+        "addInfo": "",
+        "otherPriority": ""
+    },
+    "Family Man": {
         "addInfo": "",
         "otherPriority": ""
     },
@@ -1175,11 +1195,11 @@
         "addInfo": "",
         "otherPriority": ""
     },
-    "HEAVY RAIN": {
-        "addInfo": "",
-        "otherPriority": "low?"
-    },
     "Hello Neighbor": {
+        "addInfo": "",
+        "otherPriority": ""
+    },
+    "Hellpoint": {
         "addInfo": "",
         "otherPriority": ""
     },
@@ -1205,7 +1225,7 @@
     },
     "HITMAN 2": {
         "addInfo": "",
-        "otherPriority": ""
+        "otherPriority": "low?"
     },
     "Hitman: Absolution": {
         "addInfo": "",
@@ -1228,6 +1248,10 @@
         "otherPriority": ""
     },
     "Husk": {
+        "addInfo": "",
+        "otherPriority": ""
+    },
+    "Idle Champions of the Forgottem Realms": {
         "addInfo": "",
         "otherPriority": ""
     },
@@ -1469,7 +1493,7 @@
     },
     "LEGO Ninjago Movie Video Game": {
         "addInfo": "",
-        "otherPriority": ""
+        "otherPriority": "low?"
     },
     "LEGO The Lord of the Rings": {
         "addInfo": "",
@@ -1587,6 +1611,10 @@
         "addInfo": "",
         "otherPriority": ""
     },
+    "Metro Exodus": {
+        "addInfo": "",
+        "otherPriority": ""
+    },
     "Metro Last Light Redux": {
         "addInfo": "",
         "otherPriority": ""
@@ -1643,6 +1671,10 @@
         "addInfo": "",
         "otherPriority": ""
     },
+    "Moss": {
+        "addInfo": "VR only",
+        "otherPriority": ""
+    },
     "Mother Russia Bleeds": {
         "addInfo": "",
         "otherPriority": ""
@@ -1688,6 +1720,10 @@
         "otherPriority": ""
     },
     "NBA 2K20": {
+        "addInfo": "",
+        "otherPriority": ""
+    },
+    "NBA 2K21": {
         "addInfo": "",
         "otherPriority": ""
     },
@@ -2143,6 +2179,10 @@
         "addInfo": "",
         "otherPriority": ""
     },
+    "Retimed": {
+        "addInfo": "",
+        "otherPriority": ""
+    },
     "Retro City Rampage DX": {
         "addInfo": "",
         "otherPriority": ""
@@ -2156,6 +2196,10 @@
         "otherPriority": ""
     },
     "Revenge of the Titans": {
+        "addInfo": "",
+        "otherPriority": ""
+    },
+    "Rez Infinite": {
         "addInfo": "",
         "otherPriority": ""
     },
@@ -2675,6 +2719,10 @@
         "addInfo": "",
         "otherPriority": "low?"
     },
+    "Subnautica": {
+        "addInfo": "",
+        "otherPriority": ""
+    },
     "Subterrain": {
         "addInfo": "",
         "otherPriority": ""
@@ -2947,11 +2995,11 @@
         "addInfo": "",
         "otherPriority": ""
     },
-    "The Last of Us Remastered": {
-        "addInfo": "",
-        "otherPriority": "low?"
-    },
     "The Legend of Heroes: Trails in the Sky": {
+        "addInfo": "",
+        "otherPriority": ""
+    },
+    "The Lion's Song": {
         "addInfo": "",
         "otherPriority": ""
     },
@@ -3463,6 +3511,10 @@
         "addInfo": "",
         "otherPriority": ""
     },
+    "Wreckfest (PS5 Version)": {
+        "addInfo": "",
+        "otherPriority": ""
+    },
     "WWE 2K16": {
         "addInfo": "",
         "otherPriority": ""
@@ -3526,6 +3578,10 @@
     "Ziggurat": {
         "addInfo": "",
         "otherPriority": "low?"
+    },
+    "Zombie Army 4: Dead War": {
+        "addInfo": "",
+        "otherPriority": ""
     },
     "Zombie Army Trilogy": {
         "addInfo": "",
