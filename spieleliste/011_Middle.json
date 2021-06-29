@@ -143,10 +143,6 @@
         "addInfo": "",
         "otherPriority": ""
     },
-    "Human: Fall Flat": {
-        "addInfo": "",
-        "otherPriority": ""
-    },
     "InnerSpace": {
         "addInfo": "",
         "otherPriority": ""
@@ -228,6 +224,10 @@
         "otherPriority": ""
     },
     "Undertale": {
+        "addInfo": "",
+        "otherPriority": ""
+    },
+    "Untitled Goose Game": {
         "addInfo": "",
         "otherPriority": ""
     }
