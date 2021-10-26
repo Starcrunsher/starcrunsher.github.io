@@ -1,5 +1,5 @@
 {
-    "The Witness": {
+    "God of War": {
         "addInfo": "",
         "otherPriority": ""
     },
@@ -15,24 +15,8 @@
         "addInfo": "",
         "otherPriority": ""
     },
-    "Dorfromantik": {
-        "addInfo": "",
-        "otherPriority": ""
-    },
-    "ISANDERS": {
-        "addInfo": "",
-        "otherPriority": ""
-    },
-    "Hades": {
-        "addInfo": "",
-        "otherPriority": ""
-    },
     "Celeste": {
         "addInfo": "Farewell Golden Strawberry Attempts",
-        "otherPriority": ""
-    },
-    "Crash Team Racing: Nitro Fueled": {
-        "addInfo": "Speedruns",
         "otherPriority": ""
     },
     "Rocket League": {
@@ -40,7 +24,7 @@
         "otherPriority": ""
     },
     "I Wanna Maker": {
-        "addInfo": "Playing Levels",
+        "addInfo": "",
         "otherPriority": ""
     }
 }
